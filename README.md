@@ -571,17 +571,7 @@ If you found this project helpful:
 
 ---
 
-## 📸 Screenshots
 
-### Swagger UI Interface
-![Swagger UI](https://via.placeholder.com/800x400/4A90E2/ffffff?text=Add+Your+Swagger+UI+Screenshot+Here)
-
-### API Response Example
-![API Response](https://via.placeholder.com/800x400/50E3C2/ffffff?text=Add+Your+API+Response+Screenshot+Here)
-
-*Add your own screenshots after deployment!*
-
----
 
 <div align="center">
 
