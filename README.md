@@ -547,7 +547,7 @@ This project is licensed under the MIT License - feel free to use it for learnin
 **Zain**
 
 - 🔗 GitHub: [@zain-cs](https://github.com/zain-cs)
-- 📧 Email: [Contact me](mailto:your.email@example.com)
+- 📧 Email: [Contact me](mailto:mzainulabidin.cs@gmail.com)
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
 
 ---
